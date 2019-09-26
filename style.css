@@ -1,3 +1,10 @@
+.container{
+    width: 50%;
+    background-color: darkgrey;
+    margin: 0 auto;
+    padding: 15px;
+}
+
 .form-row{
     padding: 10px 0;
     display: flex;
@@ -9,4 +16,12 @@
 
 .form-row input{
     flex:1;
+}
+
+.column-layout{
+    width: 50%;
+    margin: 0 auto;
+    background-color: lightgrey;
+    margin-top: 10px;
+    padding: 15px;
 }
